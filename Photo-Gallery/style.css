@@ -1,0 +1,26 @@
+/* header{
+    background-color: rgb(117, 200, 234);
+} */
+ .cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    max-height: 100vh;
+ }
+ .cards img{
+    border: 1px solid red;
+    margin: 10px;
+    max-width: 15vw;
+ }
+ .logo{
+    size: 10px;
+ }
+ .Blogo{
+    width: 100px;
+    height: 100px;
+ }
+ .header{
+    display: inline-flex;
+    gap: 350px;
+ }
